@@ -7,7 +7,7 @@
 Overview page of the Metagenomics Workshop that comprises four lessons:
 
 - [Project Organization and Management for Metagenomics](https://carpentries-incubator.github.io/organization-metagenomics/)
-- [Introduction to the Command Line for Metagenomics](https://carpentries-incubator.github.io/shell-metagenomics/)
+- [Introduction to the Command Line for Metagenomics](https://prodriguez19.github.io/shell-metagenomics/)
 - [Introduction to R for Metagenomics](https://carpentries-incubator.github.io/introduction-to-R-for-metagenomics/)
 - [Data Processing and Visualization for Metagenomics](https://carpentries-incubator.github.io/metagenomics/)
 
