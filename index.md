@@ -29,7 +29,7 @@ were we will be happy to help you!
 > including the 
 > concept of DNA sequencing, nucleotide abbreviations, genome, microbiome, and taxonomy. Participants should bring their own laptops and plan to participate actively.  
 > 
-> To get started, follow the directions in the [Setup](https://carpentries-lab.github.io/metagenomics-workshop/setup.html) tab to 
+> To get started, follow the directions in the [Setup](https://prodriguez19.github.io/metagenomics-workshop/setup.html) tab to 
 > get access to the required software and data for this workshop.
 > 
 {: .prereq}
