@@ -18,7 +18,7 @@ were we will be happy to help you!
 
 
 > ## Frequently Asked Questions
-> Read our [FAQ](https://carpentries-lab.github.io/metagenomics-workshop/faq/index.html) to learn more about Data Carpentry's Metagenomics workshop as an Instructor or a workshop host.
+> Read our [FAQ](https://prodriguez19.github.io/metagenomics-workshop/faq/index.html) to learn more about Data Carpentry's Metagenomics workshop as an Instructor or a workshop host.
 {: .callout}
 
 > ## Getting Started
@@ -29,7 +29,7 @@ were we will be happy to help you!
 > including the 
 > concept of DNA sequencing, nucleotide abbreviations, genome, microbiome, and taxonomy. Participants should bring their own laptops and plan to participate actively.  
 > 
-> To get started, follow the directions in the [Setup](https://carpentries-lab.github.io/metagenomics-workshop/setup.html) tab to 
+> To get started, follow the directions in the [Setup](https://prodriguez19.github.io/metagenomics-workshop/setup.html) tab to 
 > get access to the required software and data for this workshop.
 > 
 {: .prereq}
@@ -46,17 +46,17 @@ were we will be happy to help you!
 >
 > All of the data used in this workshop can be downloaded from
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7010950.svg)](https://doi.org/10.5281/zenodo.7010950)
-> More information about this data is available on the [Data page](https://carpentries-lab.github.io/metagenomics-workshop/data/index.html).
+> More information about this data is available on the [Data page](https://prodriguez19.github.io/metagenomics-workshop/data/index.html).
 {: .prereq} 
 
 # Workshop Overview 
 
 | Lesson    | Overview | Estimated time|
 | ------- | ---------- | ---------- |
-| [Project Organization and Management](https://carpentries-incubator.github.io/organization-metagenomics/) | Learn how to structure your metadata, organize and document your metagenomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|1:30 hr|  
+| [Project Organization and Management](https://prodriguez19.github.io/organization-metagenomics/) | Learn how to structure your metadata, organize and document your metagenomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database.|1:30 hr|  
 | [Introduction to the Command Line](https://prodriguez19.github.io/metagenomics-shell/) |  Learn to navigate your file system, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards. | 4:00 hr| 
-|[Introduction to R](https://carpentries-incubator.github.io/introduction-to-R-for-metagenomics/) | Use R studio to manage several data types and structures. | 1:00 hr| 
-|[Data Processing and Visualization for Metagenomics](https://carpentries-incubator.github.io/metagenomics/) | Use command-line tools to perform quality control, metagenomic assembly, metagenomic binning, taxonomic assignment, and diversity exploration. | 6:30 hr| 
+|[Introduction to R](https://prodriguez19.github.io/introduction-to-R-for-metagenomics/) | Use R studio to manage several data types and structures. | 1:00 hr| 
+|[Data Processing and Visualization for Metagenomics](https://prodriguez19.github.io/metagenomics/) | Use command-line tools to perform quality control, metagenomic assembly, metagenomic binning, taxonomic assignment, and diversity exploration. | 6:30 hr| 
 
 <!--
 # Optional Additional Lessons
@@ -66,10 +66,6 @@ were we will be happy to help you!
 | [16S genomics](https://datacarpentry.org/genomics-r-intro/) | Use R to analyze and visualize between-sample variation. |
 !-->
 
-# Teaching Platform
-This workshop is designed to be run on pre-imaged Amazon Web Services (AWS)
-instances. All the software and data used in the workshop are hosted on an Amazon Machine Image (AMI).
-If you want to run your instance of the server used for this workshop, follow the directions in the [Setup](setup.html) tab. 
 
 ## Citation
 Please cite as:
